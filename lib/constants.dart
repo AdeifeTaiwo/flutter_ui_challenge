@@ -2,6 +2,6 @@ import 'dart:ui';
 
 const kTextColor = Color(0xFF535353);
 const kTextLightColor = Color(0xFFACACAC);
-const kTextPadding = 20.0;
+const kTextPadding = 20.1;
 const kDefaultPadding = 20.0;
 const kBgColor = Color(0xFF0F282C);
