@@ -15,6 +15,7 @@ class HomeDetailsScreen extends StatelessWidget {
     Size size = MediaQuery.of(context).size;
 
     Route _createRoute() {
+
       return PageRouteBuilder(
         pageBuilder: (context, animation, secondaryAnimation) => const  CurrentTripDetailScreen(),
 
